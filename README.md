@@ -1,5 +1,5 @@
 # TennisAQI
-Compare the air quality of tennis events by crawling data from internet
+This Project compares the air quality of tennis events by crawling data from internet
 
 Inspired by [the comment on air quality of China by Novak Djokovic before Australia Open 2020](https://www.essentiallysports.com/china-is-probably-the-worst-in-terms-of-the-quality-of-air-novak-djokovic-tennis/), I'm curious about which tennis events have the worst air quality in recent years.
 
